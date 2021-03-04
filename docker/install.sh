@@ -1,0 +1,1 @@
+composer global require "laravel/installer=~1.1"
